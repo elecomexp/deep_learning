@@ -1,10 +1,15 @@
+# Large files
+*.zip
+seg_*
+X_test*
+X_train*
+y_test*
+y_train*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
-# C extensions
-*.so
 
 # Distribution / packaging
 .Python
@@ -129,7 +134,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.venv*
 env/
 venv/
 ENV/
