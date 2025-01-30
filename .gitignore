@@ -1,10 +1,15 @@
 # Large files
-*.zip
 seg_*
 X_test*
 X_train*
 y_test*
 y_train*
+archive.zip
+github_test
+github_train_0
+github_train_1
+github_train_2
+github_train_3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
