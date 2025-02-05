@@ -10,6 +10,7 @@ github_train_0
 github_train_1
 github_train_2
 github_train_3
+*.npz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
