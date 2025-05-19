@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ## Coming Soon
 
-- Transformers (e.g., BERT, GPT-style architectures)
+- Transformers
 - Generative models using diffusion techniques
 - Interactive error analysis and model visualization tools
 - Cross-validation strategies and advanced regularization techniques
