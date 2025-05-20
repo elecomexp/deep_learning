@@ -14,6 +14,7 @@ github_train_3
 apple_train
 apple_test
 toDo*
+nb00_sandbox.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
